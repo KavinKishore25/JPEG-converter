@@ -8,10 +8,11 @@ The script checks if the specified save folder exists and creates it if not. It 
 **Usage:
 python script.py <image_folder_path> <save_folder_path>**
 
-**Dependencies:
-**Python 3
+Dependencies:
+
+Python 3
 PIL (Python Imaging Library)
-**
+
 
 **Example:**
 **python script.py input_images/ output_images/**
