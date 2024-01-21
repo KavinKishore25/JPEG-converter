@@ -10,8 +10,8 @@ python script.py <image_folder_path> <save_folder_path>**
 
 Dependencies:
 
-Python 3
-PIL (Python Imaging Library)
+* Python 3
+* PIL (Python Imaging Library)
 
 
 **Example:**
